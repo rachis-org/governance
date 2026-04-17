@@ -32,7 +32,7 @@ In addition to the required statement we would optionally welcome an informal
 evaluative statement on the extent to which AI was helpful or unhelpful in 
 achieving our Code Quality standards and your goals.
 
-We will reject any contribution that does not include a disclosure of AI use.
+We will reject any contribution that does not include a disclosure of whether or not AI was used.
 
 Code Quality
 ------------

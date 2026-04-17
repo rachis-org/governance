@@ -91,5 +91,5 @@ open source communities:
 
 Acknowledgements
 ----------------
-We thank the Scipy (and SymPy) developers for their AI policy, upon which this document is largely
+We thank the Scipy and SymPy developers for their AI policies, upon which this document is largely
 based.

@@ -43,7 +43,7 @@ be independent of AI use but wish to highlight that a contribution which achieve
 some desired objective is not necessarily complete or ready for review. Additional
 work is often needed to provide well-tested, well-integrated, and comprehensible code. 
 Irrespective of AI involvement, it remains essential that you can make accurate
-judgements on the non-functional characteristics described above or alternatively
+judgements on these non-functional characteristics or alternatively
 request assistance and guidance on these matters in accordance to our
 contributing guidelines. We cannot assist in the case of code written by AI
 when it exceeds your understanding as defined in our Responsibility section.

@@ -1,5 +1,3 @@
-.. _ai_policy:
-
 AI Policy
 =========
 

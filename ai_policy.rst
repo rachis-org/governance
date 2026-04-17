@@ -48,7 +48,7 @@ request assistance and guidance on these matters in accordance to our
 contributing guidelines. We cannot assist in the case of code written by AI
 when it exceeds your understanding as defined in our Responsibility section.
 
-We will reject contributions that do not follow our contributing guidelines.
+We will reject contributions that do not follow our [contributing guidelines](https://github.com/qiime2/.github/blob/main/CONTRIBUTING.md).
 
 Copyright
 ---------

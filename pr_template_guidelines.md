@@ -1,8 +1,7 @@
-.. _pr_template_guidelines:
-
 Pull Request Template Guidelines
 ================================
-Below are a few examples of the information that should be included under each section of the PR template.
+
+Below are a few examples of the information that should be included under each section of the rachis PR template.
 
 Description
 -----------
